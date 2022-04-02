@@ -1,1 +1,1 @@
-# web_server
+$ go build
